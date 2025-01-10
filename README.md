@@ -1,2 +1,2 @@
-# exchange-api-examples
+# API Integration Examples
 Integration Examples for the Valency Exchange API
